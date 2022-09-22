@@ -42,3 +42,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Koti79k&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Koti" height="139" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Koti79k&theme=xcode" height ="307"/>
+
+![snake gif](https://github.com/Koti79k/Koti79k/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
