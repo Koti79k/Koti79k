@@ -19,6 +19,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koti79k&" alt="koti79k" /></p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=indian-flag" alt="vaibhav ghawale" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=thecodervaibhav&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Koti79k&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div>
