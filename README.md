@@ -44,12 +44,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Koti" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=dark" alt="ahtishamkhan5678"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Koti79k&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/Koti79k/Koti79k/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
