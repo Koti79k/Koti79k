@@ -4,9 +4,9 @@
 ## 🚀 About Me
 
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-Koti79k"><img src="https://github-profile-Koti79k.vercel.app/?username=koti79k" alt="koti79k" /></a> </p>
-<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 
+<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koti79k&label=Profile%20views&color=0e75b6&style=flat" alt="koti79k" /> </p>
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
 - 🌱 I’m currently learning **Java**
@@ -23,7 +23,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 👯 **Love to connect with people and Know their stories**
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koti79k&label=Profile%20views&color=0e75b6&style=flat" alt="koti79k" /> </p>
+
 
 
 
