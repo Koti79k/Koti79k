@@ -46,7 +46,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <br>
 
 <!-- <h2 align="center">📊 My Github Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&" alt="Koti79k" /></p>
+
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=indian-flag" alt="Koti" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Koti79k&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
@@ -62,7 +62,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!-- ==============================================================================================================-->
 
 <h2><i>📊 My GitHub Status</i></h2>
-
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&" alt="Koti79k" /></p>
 <p>
     <img align="left" style="margin-left:20px" src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Koti79k&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="139" />
