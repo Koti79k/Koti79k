@@ -65,11 +65,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  <div align="right">
 <img alt="Koti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=react&hide_border=true&bg_color=##FF9E0F"/>
 </div>
- </br></br>
- <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p>
- </br></br>
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Koti79k&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="180"  /> </p> 
 
+ <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p>
+
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Koti79k&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="180"  /> </p> 
+ </br></br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Koti79k&theme=xcode" height ="300"/>
 
 
