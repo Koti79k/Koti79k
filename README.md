@@ -44,7 +44,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 
 <br>
-
 <!-- <h2 align="center">📊 My Github Stats</h2>
 
 <div>
