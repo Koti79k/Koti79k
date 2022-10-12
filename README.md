@@ -59,6 +59,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Koti79k&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div> -->
 
+
 <!-- ==============================================================================================================-->
 
 <h2><i>📊 My GitHub Status</i></h2>
