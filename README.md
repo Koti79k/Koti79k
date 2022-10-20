@@ -71,7 +71,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <!--  <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Koti79k&theme=dark&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Koti79k&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="170" />
 
 <p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Koti79k&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="180"  /> </p> 
 
