@@ -66,7 +66,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <h2><i>📊 My GitHub Status</i></h2>
  <div align="right">
-<img alt="Koti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=react&hide_border=true&bg_color=##FF9E0F"/>
+<img alt="Koti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=highcontrast&hide_border=true"/>
 </div>
 
 <!--  <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p> -->
