@@ -34,6 +34,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
