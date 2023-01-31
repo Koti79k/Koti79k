@@ -11,7 +11,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 🌱 I’m currently learning **Java**
 
-
 - 👯 I’m looking to collaborate on **Interesting projects using core java**
 
 - 👨‍💻 All of my projects are available at [https://Koti79k.github.io/](https://Koti79k.github.io/)
