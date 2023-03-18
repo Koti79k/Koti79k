@@ -53,6 +53,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   
 </br>  
 
+
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Koti79k&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
