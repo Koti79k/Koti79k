@@ -1,18 +1,21 @@
 <h1 align="center">   Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/koteswararao-pathakoti-b8a377230/" target="_blank"> Koteswararao </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+<p align="center">
+  <a href="https://github.com/Srikanthpula341">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=0e75b6&center=true&vCenter=true&lines=Full+Stack+Developer;Passionate+Coder;Open+Source+Contributor;Innovative+Technologist" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 About Me
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
+Passionate Full Stack Developer with extensive expertise in website architecture, web design, and API development. Dedicated to building robust applications that seamlessly integrate with various components of web systems. Strong problem-solving mindset focused on optimizing applications for improved stability and performance. Enthusiastic team player, eager to collaborate and contribute to project success.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koti79k&label=Profile%20views&color=0e75b6&style=flat" alt="koti79k" /> </p>
 <img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="Coding" align="right" width="40%"/>
-- 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working at Arthink AI, Hyderabad
 
-- 👯 I’m looking to collaborate on **Interesting projects using core java**
+- 🌱 I’m currently working with Next.js, React.js, Node.js, MongoDB, and JavaScript.
 
-- 👨‍💻 All of my projects are available at [https://Koti79k.github.io/](https://Koti79k.github.io/)
+- 👯 I’m looking to collaborate on innovative projects using core Java and modern web technologies
 
 - 💬 Ask me about **coding and art because that's what fascinate me**
 
@@ -24,23 +27,49 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <br>
 
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"height="50" width="60"  style="margin-right: 10px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" width="60" style="margin-right: 10px;"/> </a> </p>
+<h2 align="center">🛠️ My Tech Stack</h2>
+<p align="center" style="padding: 10px 0;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+
+
+## 👩‍💻 Software & Tools
+
+<p align="center" style="padding: 10px 0;">
+  <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
 
 <!-- <h3 align="left">Hosting :</h3> -->
 <h2 align="left"><i>Hosting :</i></h2>
 <div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCB2F?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-4F8D93?style=for-the-badge&logo=render&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div><br/>
-
-
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/koteswararao-pathakoti-b8a377230/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/koteswara-rao-465355314/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:koteswararao791212@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://twitter.com/KOTESWARARAO791"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
